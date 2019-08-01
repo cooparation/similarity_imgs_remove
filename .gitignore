@@ -1,0 +1,21 @@
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+test/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# MacOS
+.DS_Store
+
+# project dirs
+/output
